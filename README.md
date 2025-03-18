@@ -11,3 +11,5 @@ Scan Surprise CTF: https://play.picoctf.org/practice/challenge/444?difficulty=1&
 Super SSH CTF: https://play.picoctf.org/practice/challenge/424?difficulty=1&page=2
 
 hash-only-1 CTF: https://play.picoctf.org/practice/challenge/487?difficulty=2&page=1
+
+*OPEN THE WORD FILE TO SEE HOW I SOLVE IT!!*
